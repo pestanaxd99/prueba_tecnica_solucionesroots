@@ -1,0 +1,371 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10376,
+      "max": [
+        8.563830375671387,
+        6.931099891662598,
+        9.443750381469727
+      ],
+      "min": [
+        -8.529419898986816,
+        -9.028630256652832,
+        -6.529580116271973
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 124512,
+      "componentType": 5126,
+      "count": 10376,
+      "max": [
+        0.9991180896759033,
+        0.9999818801879883,
+        0.9999181032180786
+      ],
+      "min": [
+        -0.999309241771698,
+        -0.999879002571106,
+        -0.9998727440834045
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10376,
+      "max": [
+        0.9929726123809814,
+        0.9997925758361816,
+        0.9987788200378418,
+        1.0
+      ],
+      "min": [
+        -0.999997615814209,
+        -0.99992436170578,
+        -0.9992513060569763,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10376,
+      "max": [
+        0.9980469942092896,
+        0.9678500294685364
+      ],
+      "min": [
+        0.0019531298894435167,
+        0.0019531298894435167
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 58968,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 249024,
+      "componentType": 5126,
+      "count": 2137,
+      "max": [
+        2.2166600227355957,
+        1.6945699453353882,
+        13.284700393676758
+      ],
+      "min": [
+        -2.172450065612793,
+        -3.522670030593872,
+        7.229629993438721
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 274668,
+      "componentType": 5126,
+      "count": 2137,
+      "max": [
+        0.9984486699104309,
+        0.9938828945159912,
+        0.9990176558494568
+      ],
+      "min": [
+        -0.9985136389732361,
+        -0.9980270266532898,
+        -0.9990508556365967
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 166016,
+      "componentType": 5126,
+      "count": 2137,
+      "max": [
+        0.9999982118606567,
+        0.9969102740287781,
+        0.9990897178649902,
+        1.0
+      ],
+      "min": [
+        -0.9999973773956299,
+        -0.9948890805244446,
+        -0.9989732503890991,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 83008,
+      "componentType": 5126,
+      "count": 2137,
+      "max": [
+        0.9980469942092896,
+        0.9290969967842102
+      ],
+      "min": [
+        0.0019531298894435167,
+        0.0019531298894435167
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 235872,
+      "componentType": 5125,
+      "count": 11904,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "justsantiago (https://sketchfab.com/justsantiago)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pumpkin-41141f1e293c4c3fb6fd51de53a10968",
+      "title": "Pumpkin"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 283488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100104,
+      "byteOffset": 283488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 300312,
+      "byteOffset": 383592,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200208,
+      "byteOffset": 683904,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 884112,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/LiberumDonum_2021_Pumpking_Print_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/LiberumDonum_2021_Pumpking_Print_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/LiberumDonum_2021_Pumpking_Print_normal.jpeg"
+    },
+    {
+      "uri": "textures/Stem_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Stem_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Stem_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "LiberumDonum_2021_Pumpking_Print",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.9562972353452627,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Stem",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        },
+        "roughnessFactor": 0.5306851139120442
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.02857142873108387,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.3441316047372065e-18,
+        -0.02857142873108387,
+        0.0,
+        0.0,
+        0.02857142873108387,
+        6.3441316047372065e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "LiberumDonum_Pumpkin.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

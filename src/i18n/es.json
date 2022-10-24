@@ -1,0 +1,22 @@
+{
+  "card_text_prem" : "Con acceso a la zona estándar y premium, con éste ticket eres participante para uno de los premios, y podrás llevar un acompañante",
+  "card_text_stan" : "Con acceso a la zona estándar, también serás participante de alguno de los premios que serán sorteados dentro de tu zona, éste ticket solo es válido para una persona sin acompañante",
+  "card_text_vip" : "Tendrás acceso a todas las zonas, estarás con invitados especiales y ademas serás capaz de recordar este momento con ellos, siendo parte del evento, solo podrás llevar dos acompañantes",
+  "our_packages" : "¡ESTÁS INVITADO A NUESTRA FIESTA!",
+  "page_title" : "Halloween 2022",
+  "secondary_text" : "¡QUÉ MANERA DE CELEBRAR! Nos emociona enviarte esta invitación para nuestra fiesta en Hallowen, en el siguiente sitio puedes ver el precio de los tipos de boletos para el evento.",
+  "text_basic" : "Ticket Básico",
+  "text_buy" : "Comprar ahora",
+  "text_pro" : "Ticket VIP",
+  "text_standard" : "Ticket Estándar",
+  "invitation_title":"Estás a un solo paso de",
+  "invitation_subtitle":" ser parte de nuestra increíble Fiesta de éste año.",
+  "text_invitation":"Este año, nuestra fiesta hallowen será el mejor evento del mundo con socios e invitados de otros países, algunos con vida y otros MUERTOS.",
+  "text_qr":"Generar Código QR",
+  "title_generateqr":"ESCANEA TU CODIGO QR ABAJO",
+  "card_text_stan_title":"Ticket Básico",
+  "card_text_prem_title":"Ticket Estándar ",
+  "card_text_vip_title":"Ticket VIP",
+  "text_invitation_rules_1":"1. Ésta es válida solo para una persona",
+  "text_invitation_rules_2":"2. Guarda éste código QR en una zona segura, el día del evento ésta será tu entrada."
+}

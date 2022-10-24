@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Ghost Sculpture
+* source:	https://sketchfab.com/3d-models/simple-ghost-sculpture-1e3a8c5d3a6c41758e554738f8c4bd6e
+* author:	tobycvn (https://sketchfab.com/tobycvn)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Ghost Sculpture" (https://sketchfab.com/3d-models/simple-ghost-sculpture-1e3a8c5d3a6c41758e554738f8c4bd6e) by tobycvn (https://sketchfab.com/tobycvn) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
