@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Hallowen Party Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_En éste proyecto, se presenta una pagina promocional para la venta de entradas a un evento Hallowen_
 
-## Available Scripts
+
+Al momento tiene 3 vistas que están organizadas de la siguiente manera: 
+1. Pagina promocional para comprar las entradas al evento 
+2. Pagina posterior a la compra del cliente que posee las reglas y un botón para generar codigo QR con codigo unico con los datos del cliente 
+3. Pagina que muestra el codigo qr unico del cliente que funciona como entrada al evento 
+
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 In the project directory, you can run:
 
@@ -33,38 +42,34 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pre-requisitos 📋
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+_Que cosas necesitas para instalar el software y como instalarlas_
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Necesitas NodeJS como manejador de paquetes para que sea posible instalar las dependencias mediante el comando **npm install**
 
-## Learn More
+### Instalación 🔧
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Dí cómo será ese paso_
 
-### Code Splitting
+**$npm install --save**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Construido con 🛠️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-### Making a Progressive Web App
+* [Tailwind](https://tailwindcss.com/docs) - Libreria CSS
+* [ThreeJS](https://threejs.org/docs/) - Librería para animaciones 3D
+* [ReactJS](https://es.reactjs.org/docs/getting-started.html) - Librería usada para la creación del proyecto
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Lenguaje usado
+* [NodeJS](https://nodejs.org/en/docs/) - Manejador de paquetes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Autores ✒️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **Cristians Pestana** - *Trabajo Inicial* - [pestanaxd99](https://github.com/pestanaxd99)
