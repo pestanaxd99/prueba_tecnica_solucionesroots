@@ -14,6 +14,7 @@ Al momento tiene 3 vistas que están organizadas de la siguiente manera:
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 In the project directory, you can run:
+En la carpeta raíz de tu proyecto, escribe el siguiente comando:
 
 ### `npm start`
 
