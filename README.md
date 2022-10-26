@@ -45,16 +45,9 @@ Necesitas NodeJS como manejador de paquetes para que sea posible instalar las de
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
 **$npm install --save**
 
-
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Tailwind](https://tailwindcss.com/docs) - Libreria CSS
 * [ThreeJS](https://threejs.org/docs/) - Librería para animaciones 3D
@@ -64,7 +57,5 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Cristians Pestana** - *Trabajo Inicial* - [pestanaxd99](https://github.com/pestanaxd99)
